@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-malibyk.vercel.app/api/spotify-playing" alt="MaliBYK Spotify Playing" width="350" />](https://open.spotify.com/user/3k13waonz2qf8czeny3d1gnv2?si=5e2bz5X9R2mWeEb0IYlxUw)
+[<img src="https://novatorem-8ljbtf8ld-malibyk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/3k13waonz2qf8czeny3d1gnv2?si=HAvZyry8SICr5PPUZdlVbw>)
 
 ### Connect with me:
 
