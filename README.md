@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammet Al</h1>
+<h1 align="center">Hi 👋, I'm Muhammet Ali</h1>
 <h3 align="center">A Student And Developer From Turkey</h3>
 
 <p align="left"> <img src="https://img.shields.io/youtube/channel/subscribers/UC-xlQoCzQpATClQV5b1Dpiw?label=Developer%20box&logo=Youtube&style=for-the-badge" alt="malibyk" />
