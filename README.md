@@ -89,8 +89,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="github-readme-stats-one-inky.vercel.app
-/api?username=MaliBYK&show_icons=true&hide_border=true" />
+  https://github-readme-stats.vercel.app/api?username=malibyk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
 </details>
 
