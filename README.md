@@ -25,7 +25,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-bnklksjrw-malibyk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/https://open.spotify.com/user/3k13waonz2qf8czeny3d1gnv2?si=iH-zokg4QtmnRo9cihWq-Q)
+[<img src="https://spotify-now-playing-bnklksjrw-malibyk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/3k13waonz2qf8czeny3d1gnv2?si=iH-zokg4QtmnRo9cihWq-Q)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malibyk&show_icons=true&locale=en" alt="malibyk" /></p>
 
