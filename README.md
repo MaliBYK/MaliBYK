@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mali_baykus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mali_baykus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/developer box" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="developer box" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-xlQoCzQpATClQV5b1Dpiw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="developer box" height="30" width="40" /></a>
 <a href="https://discord.gg/XgBqRA8Yvs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="XgBqRA8Yvs" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/muhammet-ali-baykuş-24478820b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="XgBqRA8Yvs" height="30" width="40" /></a>
 </p>
