@@ -5,7 +5,7 @@
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=malibyk&label=Profile%20views&color=0e75b6&style=flat" alt="malibyk" />
 </p>
 
-- 🔭 I’m currently working on **Open Source Projects**
+- 🔭 I’m currently working on **My Discord Bot And Open Sources Applications**
 
 - 🌱 I’m currently learning **everything 🤣**
 
