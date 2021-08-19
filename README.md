@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammet Ali</h1>
-<h3 align="center">A Student And Developer From Turkey</h3>
+<h3 align="center">Full Stack Developer From Turkey</h3>
 
-<p align="left">
-  <img
-    src="https://img.shields.io/youtube/channel/subscribers/UC-xlQoCzQpATClQV5b1Dpiw?label=Developer%20box&logo=Youtube&style=for-the-badge"
-    alt="malibyk"
-  />
-</p>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=malibyk&label=Profile%20views&color=0e75b6&style=flat"
@@ -14,9 +8,15 @@
   />
 </p>
 
-- 🔭 I’m currently working on **My Discord Bot And Open Sources Applications** -
-🌱 I’m currently learning **everything 🤣** - 💬 Ask me about **Javascript** -
-📫 How to reach me **malibyk00@gmail.com** - ⚡ Fun fact **I love sports.**
+- 🔭 I’m currently working on **Full Stack Web Projects**
+- 🌱 I’m currently learning **everything 🤣**
+- 💬 Ask me about **ReactJS & NodeJS & MongoDB & Express & Other Web Technologies**
+- 📫 How to reach me **malibyk00@gmail.com** 
+- ⚡ Fun fact **I love sports.**
+- I have a youtube channel about programming <a href="https://www.youtube.com/channel/UC-xlQoCzQpATClQV5b1Dpiw"> <img
+    src="https://img.shields.io/youtube/channel/subscribers/UC-xlQoCzQpATClQV5b1Dpiw?label=Developer%20box&logo=Youtube&style=for-the-badge"
+    alt="malibyk"
+  /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +27,7 @@
       alt="mali_baykus"
       height="30"
       width="40"
+       
   /></a>
   <a
     href="https://www.youtube.com/channel/UC-xlQoCzQpATClQV5b1Dpiw"
