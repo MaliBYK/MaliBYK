@@ -13,7 +13,8 @@
 - 💬 Ask me about **ReactJS & NodeJS & MongoDB & Express & Other Web Technologies**
 - 📫 How to reach me **malibyk00@gmail.com** 
 - ⚡ Fun fact **I love sports.**
-- I have a youtube channel about programming <a href="https://www.youtube.com/channel/UC-xlQoCzQpATClQV5b1Dpiw"> <img
+ <br>
+<a href="https://www.youtube.com/channel/UC-xlQoCzQpATClQV5b1Dpiw"> <img
     src="https://img.shields.io/youtube/channel/subscribers/UC-xlQoCzQpATClQV5b1Dpiw?label=Developer%20box&logo=Youtube&style=for-the-badge"
     alt="malibyk"
   /></a>
@@ -26,9 +27,9 @@
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
       alt="mali_baykus"
       height="30"
-      width="40"
+      width="40"/>
        
-  /></a>
+  </a>
   <a
     href="https://www.youtube.com/channel/UC-xlQoCzQpATClQV5b1Dpiw"
     target="blank"
